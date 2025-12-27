@@ -1,2 +1,2 @@
 # FinGenius
-Financial Management Using AI
+Financial Management Using AI with receipt scanning using OCR
