@@ -1,17 +1,6 @@
-import { ErrorThrowerOptions } from '@clerk/shared/error';
-export { M as MultisessionAppSupport, u as useDerivedAuth } from './useAuth-DEP6m3So.js';
-import { RoutingOptions } from '@clerk/types';
-export { buildClerkJsScriptAttributes, clerkJsScriptUrl, setClerkJsLoadingErrorPackageName } from '@clerk/shared/loadClerkJsScript';
-import 'react';
-import './types-BAMVj4gL.js';
-
 /**
- * Overrides options of the internal errorThrower (eg setting packageName prefix).
- *
- * @internal
+ * These need to be explicitly listed. Do not use an * here.
+ * If you do, app router will break.
  */
-declare function setErrorThrowerOptions(options: ErrorThrowerOptions): void;
-
-declare function useRoutingProps<T extends RoutingOptions>(componentName: string, props: T, routingOptions?: RoutingOptions): T;
-
-export { setErrorThrowerOptions, useRoutingProps };
+export { MultisessionAppSupport } from './client-boundary/controlComponents';
+//# sourceMappingURL=internal.d.ts.map
