@@ -1,4 +1,4 @@
-<p align="center">
+fd<p align="center">
   <a href="https://clerk.com?utm_source=github&utm_medium=clerk_react" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://images.clerk.com/static/logo-dark-mode-400x400.png">
@@ -64,7 +64,7 @@ We're open to all community contributions! If you'd like to contribute in any wa
 
 _For more information and to report security issues, please refer to our [security documentation](https://github.com/clerk/javascript/blob/main/docs/SECURITY.md)._
 it is financial manager, which helps you track your money using AI.
-Financial Management Using AI
+Financial Management Using AI ooo
 
 ## License
 
