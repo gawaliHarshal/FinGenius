@@ -69,5 +69,5 @@ Financial Management Using AI ooo
 ## License
 
 This project is licensed under the **MIT license**.
-
+ugbdius
 See [LICENSE](https://github.com/clerk/javascript/blob/main/packages/react/LICENSE) for more information.
