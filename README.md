@@ -64,7 +64,7 @@ We're open to all community contributions! If you'd like to contribute in any wa
 
 _For more information and to report security issues, please refer to our [security documentation](https://github.com/clerk/javascript/blob/main/docs/SECURITY.md)._
 it is financial manager, which helps you track your money using AI.
-Financial Management Using AI ooo HArshal Gawali
+Financial Management Using AI ooo HArshal Gawali Made a effective financial manager integrating with AI using google gemini API's.
 
 ## License
 
