@@ -1,4 +1,4 @@
-j cFinGenius- Financial Management using AI.
+FinGenius- Financial Management using AI.
 <p align="center">
   <a href="https://clerk.com?utm_source=github&utm_medium=clerk_react" target="_blank" rel="noopener noreferrer">
     <picture>
