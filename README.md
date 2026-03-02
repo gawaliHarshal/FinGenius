@@ -67,6 +67,7 @@ _For more information and to report security issues, please refer to our [securi
 it is financial manager, which helps you track your money using AI. dfjkncd
 Financial Management Using AI ooo HArshal Gawali Made a effective financial manager integrating with AI using google gemini API's. .......
 personal finance tracker with arcjet security.
+automated receipt scanning.
 
 ## License 
 
